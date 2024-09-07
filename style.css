@@ -1,0 +1,122 @@
+body{
+    padding: 10px;
+    margin:0;
+}
+body {
+    background-image: url(./wp7453795-portfolio-wallpapers.jpg);
+    background-size: cover ;
+    
+}
+
+h2 {
+    color: rgb(195, 234, 131);
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.dropdown-item:hover{
+   background-color: rgb(98, 206, 249);
+}
+
+.navbar {
+    position: relative;
+}
+
+.navbar {
+    background: rgb(6, 181, 240);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgb(65, 205, 252) 0%, rgb(15, 218, 240) 54%);
+}
+
+.contain {
+    font-weight: 900;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#about {
+    p {
+        font-weight: bolder;
+    }
+
+    
+}
+
+hr {
+    border: 10px soild black;
+}
+
+.carousel-inner {
+    border: 10px soild black;
+    margin-left: 41%;
+    height: 170px;
+    width: 200px;
+}
+
+.d-block {
+   
+    height: 170px;
+
+}
+span {
+  background-color: rgb(37, 208, 239);  
+ .navbar-toggler{
+    background-color: #1fc2fd;}
+}
+
+.b {
+    border-radius: 50%;
+
+}
+
+.a {
+    height: fit-content;
+    width: fit-content;
+    margin-right: 5%;
+    margin-left: 20%;
+    float: left;
+}
+
+.a {
+    background-image: conic-gradient(red, yellow, green);
+    border-radius: 46%;
+    filter: drop-shadow(10px 10px 10px black)
+}
+
+.sk {
+    margin-left: 50%;
+}
+
+.rv{
+    background-image: url("./RV.png");
+    background-size: cover;
+}
+.dav{
+    background-image: url("./DAV.jpg");
+    background-size: cover;
+}
+.bit{
+    background-image: url("./BIT.jpeg");
+    background-size: cover;
+}
+.iete{
+    background-image: url("./IETE.png");
+    background-size: cover;
+}
+.assosciation1{
+   
+    height: 200px;
+    width:200px;
+    border: 3px solid black;
+    background-color: azure;
+    border-radius: 50%;
+    color: cornsilk;
+    font-size: 20px;
+}
+.assosciation1 {
+    display:inline-flex;
+    flex-wrap: wrap;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    
+  }
+  #assosciation{
+    width:auto;
+    
+  }
